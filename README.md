@@ -1,2 +1,2 @@
 # Page-Reloader
- Chrome extension that auto-reloads pages
+Extension that auto-reloads pages. Initial build for Google Chrome.
